@@ -1,0 +1,50 @@
+p{
+    font-size: 20px;
+    font-family: Arial;
+}
+
+img{
+     width: 200px;
+    height: 267px;
+    transform: rotate(-7deg);
+    position: relative;
+    border: 1px solid #ddd;
+    padding: 15px;
+    transition: 0.3s;
+    border-radius: 4px;
+    float: right;
+}
+
+h1{   
+    font-style: oblique;
+    position: relative;
+    float: top;
+    display: inline-block;
+}
+
+#big{
+    font-size: 30px;
+}
+
+div{
+    padding: 1px;
+}
+
+body{
+    background-color: aqua;
+}
+
+.align{
+    border-left: 2px solid black;
+    margin-left: 90px;
+    margin-bottom: 10px;
+}
+
+#top{
+    display: inline-block;
+    text-align: left;
+}
+
+h3{
+    float: left;
+}
